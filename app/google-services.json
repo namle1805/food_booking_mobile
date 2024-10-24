@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "73386396641",
+    "firebase_url": "https://order-foodapp-default-rtdb.firebaseio.com",
+    "project_id": "order-foodapp",
+    "storage_bucket": "order-foodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73386396641:android:0d541b943aef428b56e0a0",
+        "android_client_info": {
+          "package_name": "com.prm.food_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT9FdFaDVNdISL1fXq5i47Vennc6vGNes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73386396641:android:cf721a495fdf83c056e0a0",
+        "android_client_info": {
+          "package_name": "com.prm.order_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT9FdFaDVNdISL1fXq5i47Vennc6vGNes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
